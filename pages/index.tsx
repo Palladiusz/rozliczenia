@@ -117,6 +117,7 @@ export default function Home() {
           </Accordion>
           {[...Object.keys(users), ...Object.keys(usersSoj)].map((element) => (
             <Button
+              key={element}
               color={!activeUsers.includes(element) ? "gray" : "blue"}
               onClick={() => {
                 if (activeUsers.includes(element)) {
@@ -226,7 +227,9 @@ export default function Home() {
                     const jsonString = JSON.stringify(users);
                     const jsonParsed = JSON.parse(jsonString);
 
-                    return <Checkbox label={`${e}, nr ${jsonParsed[e]}`} />;
+                    return (
+                      <Checkbox key={e} label={`${e}, nr ${jsonParsed[e]}`} />
+                    );
                   })}
               </Grid.Col>
             </Grid>
@@ -258,7 +261,9 @@ export default function Home() {
                     const jsonString = JSON.stringify(usersSoj);
                     const jsonParsed = JSON.parse(jsonString);
 
-                    return <Checkbox label={`${e}, nr ${jsonParsed[e]}`} />;
+                    return (
+                      <Checkbox key={e} label={`${e}, nr ${jsonParsed[e]}`} />
+                    );
                   })}
               </Grid.Col>
             </Grid>
