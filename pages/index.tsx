@@ -169,7 +169,9 @@ export default function Home() {
               14.Karlitosito
               15.Morsiasty
               16.Mejrips
-              17.LeiMiNA`;
+              17.LeiMiNA
+              20.czotos
+              21.Rascior`;
 
               const guildUsers = generateJson(items);
               const sojUsers = generateJson(sojItems);
