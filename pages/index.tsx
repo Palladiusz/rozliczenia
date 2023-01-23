@@ -170,6 +170,8 @@ export default function Home() {
               15.Morsiasty
               16.Mejrips
               17.LeiMiNA
+              18.Puste
+              19.Puste
               20.czotos
               21.Rascior`;
 
