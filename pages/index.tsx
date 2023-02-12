@@ -151,7 +151,9 @@ export default function Home() {
               17.XsierpniowyX
               18.CzarnyMary
               19.Senuuu
-              20.SpuczQ`;
+              20.Nooreczek
+              21.Lvndo
+              22.Kasztanowaa`;
 
               const sojItems = `1.Ktosieeq
               2.Arkainer528
@@ -168,8 +170,8 @@ export default function Home() {
               13.Karambit134
               14.Karlitosito
               15.Morsiasty
-              16.Mejrips
-              17.LeiMiNA
+              16.Yemena
+              17.Tumikk
               18.Puste1
               19.Puste2
               20.czotos
