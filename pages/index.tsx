@@ -134,26 +134,26 @@ export default function Home() {
             onClick={() => {
               const items = `1.Garutek
               2.Yuukisia
-              3.Susuma
-              4.Nabatsu
-              5.Udiii
-              6.Alklay
-              7.Clawie
-              8.TowarzyszSiergiej
-              9.Datusme
-              10.TiofanatMetylowy
-              11.KrolKox
-              12.Ekwi
-              13.Wyrwis
-              14.Kfiatek
-              15.ZiemniaczeQ
-              16.PRGPaWeLeQ
-              17.XsierpniowyX
-              18.CzarnyMary
-              19.Senuuu
-              20.Nooreczek
-              21.Lvndo
-              22.Kasztanowaa`;
+              3.dominik9739
+              4.Kuziem
+              5.Kynane
+              6.Crash
+              7.Xepi
+              8.Veastil
+              9.Nooreczek
+              10.Benzemos
+              11.Lajt
+              12.
+              13.
+              14.
+              15.
+              16.
+              17.
+              18.
+              19.
+              20.
+              21.
+              22.`;
 
               const sojItems = `1.Ktosieeq
               2.Arkainer528
