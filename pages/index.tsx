@@ -132,20 +132,20 @@ export default function Home() {
           ))}
           <Button
             onClick={() => {
-              const items = `1.Garutek
-              2.Yuukisia
-              3.dominik9739
-              4.Kuziem
-              5.Kynane
-              6.Crash
-              7.Xepi
-              8.Veastil
-              9.Nooreczek
-              10.Benzemos
-              11.Lajt
-              12.
-              13.
-              14.
+              const items = `1.1
+              2.2
+              3.3
+              4.4
+              5.5
+              6.6
+              7.7
+              8.8
+              9.9
+              10.10
+              11.11
+              12.12
+              13.13
+              14.14
               15.
               16.
               17.
@@ -155,27 +155,27 @@ export default function Home() {
               21.
               22.`;
 
-              const sojItems = `1.Ktosieeq
-              2.Arkainer528
-              3.Senpai069
-              4.Krisu
-              5.GiveMeHoney
-              6.wooodenPC
-              7.KostekMixx
-              8.taX1337
-              9.Fiebig
-              10.EzzSpeed
-              11.LysyKarolak
-              12.LNNonetime
-              13.Karambit134
-              14.Karlitosito
-              15.Morsiasty
-              16.Yemena
-              17.Tumikk
-              18.Puste1
-              19.Puste2
-              20.czotos
-              21.Rascior`;
+              const sojItems = `1.
+              2.
+              3.
+              4.
+              5.
+              6.
+              7.
+              8.
+              9.
+              10.
+              11.
+              12.
+              13.
+              14.
+              15.
+              16.
+              17.
+              18.
+              19.
+              20.
+              21.`;
 
               const guildUsers = generateJson(items);
               const sojUsers = generateJson(sojItems);
